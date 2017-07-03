@@ -1,0 +1,53 @@
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Bot Application.dll.config
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Bot Application.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Bot Application.pdb
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Autofac.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Chronic.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Bot.Builder.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Bot.Connector.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Newtonsoft.Json.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\System.Web.Http.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Autofac.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Bot.Builder.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.Bot.Connector.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\Newtonsoft.Json.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\System.Web.Http.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\obj\Release\BotDemo.csprojResolveAssemblyReference.cache
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\obj\Release\Bot Application.dll
+C:\Users\83849\Documents\Visual Studio 2017\Projects\BotDemo\BotDemo\obj\Release\Bot Application.pdb
